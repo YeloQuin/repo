@@ -18,7 +18,7 @@ body{
 
 .heading{   
     margin:auto;
-    position:absolute;
+    position:auto;
     top:0px; bottom:0px; right:0px; left:0px;
     font-size: 6.2em;
     font-weight: 500;
@@ -49,10 +49,9 @@ body{
     font-family:sans-serif;
     font-weight: bold;
     border-radius: 25px;
-    -ms-transform: translateY(-20%);
-  transform: translateY(-20%);
-  -ms-transform: translateX(-20%);
-  transform: translateX(100%);
+    position: auto;
+   
+
     
     transition: background-color 1000ms, color 1000ms;
 }
@@ -74,10 +73,10 @@ body{
     font-family:sans-serif;
     font-weight: bold;
     border-radius: 25px;
-    -ms-transform: translateY(-20%);
-  transform: translateY(-20%);
-  -ms-transform: translateX(-20%);
-  transform: translateX(100%);
+    position: auto;
+
+  
+
     
     transition: background-color 1000ms, color 1000ms;
 }
@@ -98,10 +97,9 @@ body{
     font-family:sans-serif;
     font-weight: bold;
     border-radius: 25px;
-    -ms-transform: translateY(-20%);
-  transform: translateY(-20%);
-  -ms-transform: translateX(-20%);
-  transform: translateX(100%);
+    position: auto;
+  
+
     
     transition: background-color 1000ms, color 1000ms;
 }
@@ -123,10 +121,9 @@ body{
     font-family:sans-serif;
     font-weight: bold;
     border-radius: 25px;
-    -ms-transform: translateY(-20%);
-    transform: translateY(-20%);
-    -ms-transform: translateX(-20%);
-    transform: translateX(100%);
+    position: auto;
+
+  
 
     transition: background-color 1000ms, color 1000ms;
 }
