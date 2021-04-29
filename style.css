@@ -20,6 +20,7 @@ p {
   display: block;
   margin-right: auto;
   margin-left: auto;
+  margin-top: 90px;
   border-radius: 10px;
   width: 300px;
   height: 100px;
@@ -27,7 +28,7 @@ p {
 
 .atc{
   position: fixed;
-  top: 40%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
